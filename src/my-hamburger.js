@@ -36,7 +36,7 @@ export class MyHamburger extends LitElement {
         position: absolute;
         height: 9px;
         width: 100%;
-        background: var(--my-hamburger-color, black);
+        background: var(--my-hamburger-color);
         border-radius: 9px;
         opacity: 1;
         left: 0;
